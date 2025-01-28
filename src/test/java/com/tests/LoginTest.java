@@ -1,3 +1,5 @@
+package com.tests;
+
 import com.pages.ProductsPage;
 import org.junit.jupiter.api.Test;
 

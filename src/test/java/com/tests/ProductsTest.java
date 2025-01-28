@@ -1,3 +1,5 @@
+package com.tests;
+
 import com.models.ShipInfo;
 import com.pages.CartPage;
 import com.pages.ProductsPage;

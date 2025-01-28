@@ -1,3 +1,5 @@
+package com.tests;
+
 import com.google.common.collect.ImmutableMap;
 import com.microsoft.playwright.Browser;
 import com.microsoft.playwright.BrowserContext;
